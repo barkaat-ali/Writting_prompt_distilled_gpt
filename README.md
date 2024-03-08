@@ -15,7 +15,7 @@ This repository contains code for fine-tuning a pre-trained DistilGPT-2 model fr
 ### How to Use:
 
 1. Download the ipynb file.
-2. If you have Jupyter Notebook in your local enviroment and also have good gpu then you can try to run cell locally other import in Amazon Sagemaker Studo Lab.
+2. If you have Jupyter Notebook in your local enviroment and also have good gpu then you can try to run cell locally other import in Kaggle.
 3. Run all cells.
 4. After training, the trained model and tokenizer will be saved in the specified output directory.
 
