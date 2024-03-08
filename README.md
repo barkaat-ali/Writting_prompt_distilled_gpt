@@ -14,9 +14,9 @@ This repository contains code for fine-tuning a pre-trained DistilGPT-2 model fr
 
 ### How to Use:
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the `train_model.py` script to start model training.
+1. Download the ipynb file.
+2. If you have Jupyter Notebook in your local enviroment and also have good gpu then you can try to run cell locally other import in Amazon Sagemaker Studo Lab.
+3. Run all cells.
 4. After training, the trained model and tokenizer will be saved in the specified output directory.
 
 Feel free to experiment with different hyperparameters, models, or datasets to further improve text generation performance!
